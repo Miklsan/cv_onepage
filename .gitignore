@@ -1,0 +1,2 @@
+# Remove .sass-cache folder from the versionning
+.sass-cache
